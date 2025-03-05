@@ -11,6 +11,9 @@
   <header class="hero">
     <div class="hero-content">
       <h1>Welcome to Home Of Beauty</h1>
+      <h2>Welcome to infosys</h2>
+      <h3>Welcome to Home Of medhansh</h3>
+      <h4>Welcome to my birthdayparty</h4>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
