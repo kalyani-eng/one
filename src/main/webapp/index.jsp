@@ -13,7 +13,7 @@
       <h1>Welcome to Home Of Beauty</h1>
       <h2>Welcome to infosys</h2>
       <h3>Welcome to Home Of medhansh</h3>
-      <h4>Welcome to my birthdayparty</h4>
+      <h3>Welcome to my birthdayparty</h3>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
