@@ -10,10 +10,10 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to Home Of Beauty</h1>
-      <h2>Welcome to infosys</h2>
-      <h3>Welcome to Home Of medhansh</h3>
-      <h3>Welcome to my birthdayparty</h3>
+      <h1 style="color: pink: font-size: 40px;" allign="center">Welcome to Home Of Beauty</h1>
+      <h2 style="color: violet: font-size: 40px;" allign="center">Welcome to infosys</h2>
+      <h3 style="color: green: font-size: 40px;" allign="center">Welcome to Home Of medhansh</h3>
+      <h3 style="color: red: font-size: 40px;" allign="center">Welcome to my birthdayparty</h3>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
